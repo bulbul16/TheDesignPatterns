@@ -12,8 +12,9 @@ Overview:
 
 - Actually convert one interface of a class into another interface that clients expect.
 
-- Adapter can be classified in 2 ways i) Class adapter: Implement based on inheritence. 
-  and ii) Object adapter: Implement based on composition.
+- Adapter can be classified in 2 ways -
+	i) Class adapter: Implement based on inheritence and 
+    ii) Object adapter: Implement based on composition.
 
 Benifits:
 
